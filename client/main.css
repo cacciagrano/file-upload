@@ -1,0 +1,17 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+.thumb-row {
+  max-width: 100%;
+}
+
+.thumb {
+  max-height: 40px;
+}
+
+.btn-upload > input
+{
+    display: none;
+}
