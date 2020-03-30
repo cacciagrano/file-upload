@@ -8,3 +8,6 @@ The individual file component allows to delete, rename, and view the files. Mate
 Tested with Meteor@1.10.1 and React 16.8.6;
 Uses the latest useTracker access the meteor data.
 Uses React Functional component and Hooks
+
+(Based on the work of dr.dimitru)
+https://github.com/VeliovGroup/Meteor-Files/wiki/React-Example
