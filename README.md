@@ -11,5 +11,5 @@ In this example two components is used. First - to handle the uploads, adds a fi
 * Uses the latest useTracker access the meteor data.
 * Uses React Functional component and Hooks
 
-(Based on the work of dr.dimitru)
+Based on the work of @dr.dimitru
 https://github.com/VeliovGroup/Meteor-Files/wiki/React-Example
